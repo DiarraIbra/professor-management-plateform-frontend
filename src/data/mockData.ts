@@ -21,7 +21,7 @@ export const DOCTORANTS: Doctorant[] = [
   {
     id: 'doc-2',
     name: 'BENIAICH Mohamed',
-    email: 'm.beniach@uca.ac.ma',
+    email: 'm.beniaich@uca.ac.ma',
     researchTopic: 'Intelligence artificielle et prise de décision en management',
     dateAdded: '2025-04-15'
   },
